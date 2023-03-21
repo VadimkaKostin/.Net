@@ -1,0 +1,16 @@
+D:\Projects\.Net\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Projects\.Net\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Projects\.Net\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Projects\.Net\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Projects\.Net\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.Net\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Projects\.Net\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Projects\.Net\Linq\Lab1\bin\Debug\Lab1.exe.config
+D:\Projects\.Net\Linq\Lab1\bin\Debug\Lab1.exe
+D:\Projects\.Net\Linq\Lab1\bin\Debug\Lab1.pdb
+D:\Projects\.Net\Linq\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Projects\.Net\Linq\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.Net\Linq\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Linq\Lab1\obj\Debug\Lab1.exe
+D:\Projects\.Net\Linq\Lab1\obj\Debug\Lab1.pdb

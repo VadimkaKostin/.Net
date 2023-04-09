@@ -1,0 +1,8 @@
+D:\Projects\.Net\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Projects\.Net\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Projects\.Net\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Projects\.Net\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Projects\.Net\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.Net\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Projects\.Net\Lab2\Lab2\obj\Debug\Lab2.pdb

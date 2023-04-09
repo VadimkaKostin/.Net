@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Marks>
+  <Mark>
+    <Id>1</Id>
+    <Name>Toyota</Name>
+  </Mark>
+  <Mark>
+    <Id>2</Id>
+    <Name>BMW</Name>
+  </Mark>
+  <Mark>
+    <Id>3</Id>
+    <Name>Mercedes</Name>
+  </Mark>
+</Marks>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CarModels>
+  <CarModel>
+    <Id>1</Id>
+    <MarkId>1</MarkId>
+    <Name>Camry</Name>
+    <BodyType>Sedan</BodyType>
+    <Maker>Toyota Ukraine</Maker>
+    <Year>2020</Year>
+  </CarModel>
+  <CarModel>
+    <Id>2</Id>
+    <MarkId>1</MarkId>
+    <Name>Rav4</Name>
+    <BodyType>MUV</BodyType>
+    <Maker>Toyota Ukraine</Maker>
+    <Year>2019</Year>
+  </CarModel>
+  <CarModel>
+    <Id>3</Id>
+    <MarkId>1</MarkId>
+    <Name>Rav3</Name>
+    <BodyType>MUV</BodyType>
+    <Maker>Toyota Ukraine</Maker>
+    <Year>2021</Year>
+  </CarModel>
+  <CarModel>
+    <Id>4</Id>
+    <MarkId>2</MarkId>
+    <Name>GLA SUV</Name>
+    <BodyType>MUV</BodyType>
+    <Maker>BMW Ukraine</Maker>
+    <Year>2017</Year>
+  </CarModel>
+  <CarModel>
+    <Id>5</Id>
+    <MarkId>2</MarkId>
+    <Name>GLB SUV</Name>
+    <BodyType>MUV</BodyType>
+    <Maker>BMW Ukraine</Maker>
+    <Year>2018</Year>
+  </CarModel>
+  <CarModel>
+    <Id>6</Id>
+    <MarkId>2</MarkId>
+    <Name>GLC SUV</Name>
+    <BodyType>MUV</BodyType>
+    <Maker>BMW Ukraine</Maker>
+    <Year>2018</Year>
+  </CarModel>
+  <CarModel>
+    <Id>7</Id>
+    <MarkId>3</MarkId>
+    <Name>i4</Name>
+    <BodyType>Sedan</BodyType>
+    <Maker>Mercedes Ukraine</Maker>
+    <Year>2019</Year>
+  </CarModel>
+  <CarModel>
+    <Id>8</Id>
+    <MarkId>3</MarkId>
+    <Name>i4 M50</Name>
+    <BodyType>Sedan</BodyType>
+    <Maker>Mercedes Ukraine</Maker>
+    <Year>2020</Year>
+  </CarModel>
+  <CarModel>
+    <Id>9</Id>
+    <MarkId>3</MarkId>
+    <Name>iX</Name>
+    <BodyType>MUV</BodyType>
+    <Maker>Mercedes Ukraine</Maker>
+    <Year>2021</Year>
+  </CarModel>
+</CarModels>

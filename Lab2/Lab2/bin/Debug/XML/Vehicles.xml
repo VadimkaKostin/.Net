@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <Vehicle>
+    <Id>1</Id>
+    <ModelId>1</ModelId>
+    <VINCode>c42d707b-4a83-484b-a3aa-9b5d0a31d001</VINCode>
+    <Color>срібний</Color>
+    <Number>AA 6844 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>2</Id>
+    <ModelId>1</ModelId>
+    <VINCode>33275987-4ed3-4bb0-aa29-0f114ac355ad</VINCode>
+    <Color>зелений</Color>
+    <Number>AA 5508 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>3</Id>
+    <ModelId>1</ModelId>
+    <VINCode>fcb90294-7410-4799-8215-0cc0f07221cc</VINCode>
+    <Color>золотистий</Color>
+    <Number>AA 9267 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>4</Id>
+    <ModelId>2</ModelId>
+    <VINCode>c9d88f42-756e-421c-9455-af56c1b86438</VINCode>
+    <Color>блакитний</Color>
+    <Number>AA 6935 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>5</Id>
+    <ModelId>2</ModelId>
+    <VINCode>1083cd07-713c-4e71-9964-0dcdaea07e38</VINCode>
+    <Color>жовтий</Color>
+    <Number>AA 9321 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>6</Id>
+    <ModelId>2</ModelId>
+    <VINCode>be3cc27e-f1bc-489a-9bd8-3d1ac4c7c89f</VINCode>
+    <Color>золотистий</Color>
+    <Number>AA 6085 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>7</Id>
+    <ModelId>3</ModelId>
+    <VINCode>d45ab23c-7e5d-4f91-99d5-1327b8c81d86</VINCode>
+    <Color>жовтий</Color>
+    <Number>AA 1734 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>8</Id>
+    <ModelId>3</ModelId>
+    <VINCode>5cd72d4f-829d-4dc4-a842-df9f74927829</VINCode>
+    <Color>блакитний</Color>
+    <Number>AA 7982 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>9</Id>
+    <ModelId>3</ModelId>
+    <VINCode>f22f3287-87f3-4634-b8c3-c8bb4df48d0e</VINCode>
+    <Color>срібний</Color>
+    <Number>AA 3527 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>10</Id>
+    <ModelId>4</ModelId>
+    <VINCode>8484575e-962d-4b5a-b25e-1866f4c30e96</VINCode>
+    <Color>блакитний</Color>
+    <Number>AA 8326 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>11</Id>
+    <ModelId>4</ModelId>
+    <VINCode>ff60f25a-8657-4663-ad0b-5bcbaecf4348</VINCode>
+    <Color>срібний</Color>
+    <Number>AA 3778 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>12</Id>
+    <ModelId>4</ModelId>
+    <VINCode>c0959f3f-b487-43a9-a926-6f1cae023a2d</VINCode>
+    <Color>зелений</Color>
+    <Number>AA 9579 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>13</Id>
+    <ModelId>5</ModelId>
+    <VINCode>cb0c440e-0ea9-4f0e-9a93-fddfae829318</VINCode>
+    <Color>жовтий</Color>
+    <Number>AA 9815 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>14</Id>
+    <ModelId>5</ModelId>
+    <VINCode>f878ca74-19e5-4aa5-9484-41b0531c27f5</VINCode>
+    <Color>срібний</Color>
+    <Number>AA 1886 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>15</Id>
+    <ModelId>5</ModelId>
+    <VINCode>680807d2-c758-45b4-880a-90347a93013a</VINCode>
+    <Color>жовтий</Color>
+    <Number>AA 8213 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>16</Id>
+    <ModelId>6</ModelId>
+    <VINCode>404cceaa-3ca1-4bfb-a915-e60fd811b2b1</VINCode>
+    <Color>жовтий</Color>
+    <Number>AA 5068 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>17</Id>
+    <ModelId>6</ModelId>
+    <VINCode>66c57e6c-0138-4fb0-878d-5d248f8a2293</VINCode>
+    <Color>червоний</Color>
+    <Number>AA 2594 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>18</Id>
+    <ModelId>6</ModelId>
+    <VINCode>e54705bf-bdc1-478c-b5b2-3b1bef054e30</VINCode>
+    <Color>золотистий</Color>
+    <Number>AA 3732 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>19</Id>
+    <ModelId>7</ModelId>
+    <VINCode>e447107b-bd75-48b6-8de2-3e90be2a9d64</VINCode>
+    <Color>зелений</Color>
+    <Number>AA 6177 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>20</Id>
+    <ModelId>7</ModelId>
+    <VINCode>15dea608-97ce-48aa-86ec-70de26178ca9</VINCode>
+    <Color>блакитний</Color>
+    <Number>AA 4609 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>21</Id>
+    <ModelId>7</ModelId>
+    <VINCode>06b3f2bd-f22e-48e3-b168-ab1c3b949a97</VINCode>
+    <Color>срібний</Color>
+    <Number>AA 7459 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>22</Id>
+    <ModelId>8</ModelId>
+    <VINCode>381ec6d3-249e-4126-aa99-f392376d1ed4</VINCode>
+    <Color>зелений</Color>
+    <Number>AA 3823 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>23</Id>
+    <ModelId>8</ModelId>
+    <VINCode>326bac95-ccb9-4fc0-9602-e21f91969576</VINCode>
+    <Color>срібний</Color>
+    <Number>AA 6295 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>24</Id>
+    <ModelId>8</ModelId>
+    <VINCode>ae545ab5-03f0-4d54-87bb-a150729b35f4</VINCode>
+    <Color>блакитний</Color>
+    <Number>AA 9406 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>25</Id>
+    <ModelId>9</ModelId>
+    <VINCode>45985d45-a27b-479d-8a19-326517827b60</VINCode>
+    <Color>зелений</Color>
+    <Number>AA 2735 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>26</Id>
+    <ModelId>9</ModelId>
+    <VINCode>ef733c55-f7c3-4b2c-ab3c-d20d68ee83e6</VINCode>
+    <Color>червоний</Color>
+    <Number>AA 6614 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+  <Vehicle>
+    <Id>27</Id>
+    <ModelId>9</ModelId>
+    <VINCode>16b065c7-a1a8-427b-abea-04996a7bbbbb</VINCode>
+    <Color>жовтий</Color>
+    <Number>AA 5180 AK</Number>
+    <State>задовільний</State>
+  </Vehicle>
+</Vehicles>

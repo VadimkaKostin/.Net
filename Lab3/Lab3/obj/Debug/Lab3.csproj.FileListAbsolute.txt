@@ -1,0 +1,8 @@
+D:\Projects\.Net\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Projects\.Net\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Projects\.Net\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Projects\.Net\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Projects\.Net\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.Net\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Projects\.Net\Lab3\Lab3\obj\Debug\Lab3.pdb

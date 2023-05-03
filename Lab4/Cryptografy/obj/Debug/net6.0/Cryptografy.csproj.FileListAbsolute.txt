@@ -1,0 +1,12 @@
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.csproj.AssemblyReference.cache
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.AssemblyInfoInputs.cache
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.AssemblyInfo.cs
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Lab4\Cryptografy\bin\Debug\net6.0\Cryptografy.deps.json
+D:\Projects\.Net\Lab4\Cryptografy\bin\Debug\net6.0\Cryptografy.dll
+D:\Projects\.Net\Lab4\Cryptografy\bin\Debug\net6.0\Cryptografy.pdb
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.dll
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\refint\Cryptografy.dll
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\Cryptografy.pdb
+D:\Projects\.Net\Lab4\Cryptografy\obj\Debug\net6.0\ref\Cryptografy.dll
